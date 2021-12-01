@@ -13,7 +13,7 @@ import cv2
 from imread_from_url import imread_from_url
 
 image_list = []
-cv_image = imread_from_url('XXXX')
+cv_image = imread_from_url('https://raw.githubusercontent.com/Kazuhito00/LearningToCountEverything-Colaboratory-Sample/main/sample.jpg')
 image_list.append(cv2.cvtColor(cv_image, cv2.COLOR_BGR2RGB))
 ```
 
