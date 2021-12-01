@@ -1,9 +1,9 @@
 # LearningToCountEverything-Colaboratory-Sample
-<img src="https://user-images.githubusercontent.com/37477845/144175781-4c5c6755-5b17-43d6-859a-66149d8b3fa7.png" width="75%"><br>
+<img src="https://user-images.githubusercontent.com/37477845/144256323-fa528429-bd20-4d75-957b-5e4f3610594e.gif" width="75%"><br>
 [LearningToCountEverything](https://github.com/cvlab-stonybrook/LearningToCountEverything)をColaboratory上で動かすサンプルです。<br>
 
 # How to use
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/Tensorflow2-ObjectDetectionAPI-Colab-Hands-On/blob/master/[Colaboratory]Tensorflow2-ObjectDetectionAPI-Colab-Hands-On.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/LearningToCountEverything-Colaboratory-Sample/blob/master/LearningToCountEverything-Colaboratory-Sample.ipynb)<br>
 [Open In Colab]ボタンを押し、Colaboratoryでノートブックを開き、<br>
 最初のセルから順に実行してください。<br><br>
 試す画像を変更する際はimread_from_url()のURLを変更してください。<br>
