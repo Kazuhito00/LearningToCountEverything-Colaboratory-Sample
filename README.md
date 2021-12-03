@@ -1,5 +1,5 @@
 # LearningToCountEverything-Colaboratory-Sample
-<img src="https://user-images.githubusercontent.com/37477845/144256323-fa528429-bd20-4d75-957b-5e4f3610594e.gif" width="75%"><br>
+<img src="https://user-images.githubusercontent.com/37477845/144614233-b0dc3d7d-06a8-42d6-994e-708ef4535b86.gif" width="75%"><br>
 [LearningToCountEverything](https://github.com/cvlab-stonybrook/LearningToCountEverything)をColaboratory上で動かすサンプルです。<br>
 
 # How to use
